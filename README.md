@@ -1,6 +1,7 @@
 # Leetcode
 
-## Easy
+## Easy 
+(26 total)
 | #  |                                       Title                                   | Solution | Tags |
 | :--: | :-------------------------------------------------------------------------: | :-----------: | :--------: |
 | 551  |  [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i) | [Kotlin](./solutions/551/551.kt) | Array |
@@ -31,7 +32,9 @@
 | 206  |  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Kotlin](./solutions/206/206.kt) | Linked List |
 
 
+
 ## Medium
+(41 total)
 | #  |                                       Title                                   | Solution | Tags |
 | :--: | :-------------------------------------------------------------------------: | :-----------: | :--------: |
 | 53  |  [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Kotlin](./solutions/53/53.kt) | DP, Divide and Conquer |

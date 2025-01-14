@@ -29,7 +29,6 @@
 | 1  |  [Two Sum](https://leetcode.com/problems/two-sum/) | [Kotlin](./solutions/1/1.kt) | Hash Table |
 | 20  |  [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Kotlin](./solutions/1/1.kt) | Stack |
 | 206  |  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Kotlin](./solutions/206/206.kt) | Linked List |
-| 206  |  [String Compression](https://leetcode.com/problems/reverse-linked-list/) | [Kotlin](./solutions/206/206.kt) | Linked List |
 
 
 ## Medium

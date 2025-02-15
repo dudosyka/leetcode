@@ -1,7 +1,7 @@
 # Leetcode
 
 ## Easy 
-(26 total)
+(28 total)
 | #  |                                       Title                                   | Solution | Tags |
 | :--: | :-------------------------------------------------------------------------: | :-----------: | :--------: |
 | 551  |  [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i) | [Kotlin](./solutions/551/551.kt) | Array |
@@ -30,14 +30,17 @@
 | 1  |  [Two Sum](https://leetcode.com/problems/two-sum/) | [Kotlin](./solutions/1/1.kt) | Hash Table |
 | 20  |  [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Kotlin](./solutions/1/1.kt) | Stack |
 | 206  |  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Kotlin](./solutions/206/206.kt) | Linked List |
+| 1114  |  [Print in Order](https://leetcode.com/problems/print-in-order/description/) | [Java](./solutions/1114/1114.java) | Concurrency |
+| 70  |  [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Kotlin](./solutions/70/70.kt) | DP |
 
 
 
 ## Medium
-(41 total)
+(47 total)
 | #  |                                       Title                                   | Solution | Tags |
 | :--: | :-------------------------------------------------------------------------: | :-----------: | :--------: |
 | 53  |  [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Kotlin](./solutions/53/53.kt) | DP, Divide and Conquer |
+| 55  |  [Jump Game](https://leetcode.com/problems/jump-game) | [Kotlin](./solutions/55/55.kt) | DP |
 | 45  |  [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) | [Kotlin](./solutions/45/45.kt) | DP |
 | 22  |  [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Kotlin](./solutions/22/22.kt) | DP, Backtracking |
 | 554 |  [Brick Wall](https://leetcode.com/problems/brick-wall/) | [Kotlin](./solutions/554/554.kt) | Hash Table |
@@ -77,6 +80,11 @@
 | 49  |  [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Kotlin](./solutions/49/49.kt) | Hash Table, Sorting |
 | 146  |  [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Kotlin](./solutions/146/146.kt) | Double-Linked List, Hash Table |
 | 443  |  [String Compression](https://leetcode.com/problems/string-compression/) | [Kotlin](./solutions/146/146.kt) | String, Two Pointers |
+| 1117  |  [Building H20](https://leetcode.com/problems/building-h2o/description/) | [Java](./solutions/1117/1117.java) | Concurrency |
+| 1195  |  [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/description/) | [Java](./solutions/1195/1195.java) | Concurrency |
+| 62  |  [Unique paths](https://leetcode.com/problems/unique-paths/description/) | [Kotlin](./solutions/62/62.kt) | DP |
+| 63  |  [Unique paths II](https://leetcode.com/problems/unique-paths/description/) | [Kotlin](./solutions/63/63.kt) | DP |
+| 64  |  [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Kotlin](./solutions/64/64.kt) | DP |
 
 
 
